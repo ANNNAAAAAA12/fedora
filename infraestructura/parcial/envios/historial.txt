@@ -1,0 +1,219 @@
+    1  }
+    2  clear
+    3  mkdir /aramos598
+    4  clear
+    5  cd
+    6  cd aramos598
+    7  cd /aramos598
+    8  clear
+    9  cd /
+   10  cd /aramos598
+   11  mkdir infraestructura
+   12  mkdir -p tareas/trabajos/parcial
+   13  ls
+   14  rm -r tareas
+   15  rm tareas
+   16  rmdir tareas
+   17  rm -rf tareas
+   18  ls
+   19  cd infraestructura
+   20  ls
+   21  cd /aramos598
+   22  ls
+   23  ls -1
+   24  tree /aramos598
+   25  cd /
+   26  clear
+   27  cd /aramos598
+   28  ls
+   29  rm -rf infraestructura
+   30  clear
+   31  cd /
+   32  clear
+   33  cd /aramos598
+   34  ls
+   35  mkdir infraestructura 
+   36  mkdir personal
+   37  mkdir semillero
+   38  ls
+   39  cd semillero
+   40  mkdir -p proyectos/diseños/ingeniotic semilleros 
+   41  ls
+   42  rm -rf semillero
+   43  ls
+   44  rm -rf semillero
+   45  rm -rf aramos598/semillero
+   46  cd /
+   47  rm -rf aramos598/semillero
+   48  cd /aramos598
+   49  ls
+   50  mkdir semillero
+   51  clear
+   52  ls
+   53  cd semillero
+   54  mkdir -p proyectos/diseños/ingeniotic proyectos/diseños/semilleros
+   55  cd aramos598
+   56  cd /aramos598
+   57  rm -rf aramos598/semillero
+   58  cd semillero}
+   59  mkdir semillero
+   60  cd/
+   61  cd /
+   62  rm -rf aramos598/semillero
+   63  cd aramos598
+   64  ls
+   65  mkdir semillero
+   66  clear
+   67  ls
+   68  cd semillero
+   69  mkdir -p proyectos/diseños/ingeniotic proyectos/diseños/semilleros
+   70  ls
+   71  cd proyectos
+   72  ls
+   73  cd diseños
+   74  ls
+   75  cd /aramos598
+   76  tree
+   77  cd infraestructura
+   78  mkdir tareas/trabajos/parcial
+   79  mkdir infraestructura/ tareas/ trabajos / parcial
+   80  clear
+   81  cd aramos598
+   82  cd /aramos598
+   83  clear
+   84  cd infraestructura
+   85  ls
+   86  cd /
+   87  rm -rf aramos598/infraestructura
+   88  cd aramos598
+   89  tree
+   90  mkdir infraestructura
+   91  tree
+   92  clear
+   93  cd infraestructura
+   94  mkdir -p tareas/trabajos/parcial
+   95  ls
+   96  cd /
+   97  rm -rf aramos598/infraestructura
+   98  cd aramos598
+   99  mkdir infraestructura
+  100  tree
+  101  clear
+  102  cd infraestructura
+  103  mkdir tareas/trabajos/parcial
+  104  mkdir infraestructura/tareas/trabajos/parcial
+  105  ls
+  106  clear
+  107  mkdir infraestructura/trabajos infraestructura/tareas infraestructura/parcial
+  108  cd aramos598
+  109  cd /aramos598
+  110  ls
+  111  cd infraestructura
+  112  ls
+  113  clear
+  114  mkdir tareas
+  115  mkdir trabajos
+  116  mkdir parcial
+  117  ls
+  118  cd /aramos598
+  119  tree
+  120  cd infraestructura
+  121  touch temas.txt
+  122  ls
+  123  cd tareas
+  124  touch vi.txt
+  125  cd trabajos
+  126  mkdir cisco
+  127  cd disco
+  128  cd aramos598/infraestructura/trabajos/cisco
+  129  ls
+  130  cd /
+  131  rm -rf  cisco
+  132  cd /aramos598
+  133  ls
+  134  tree
+  135  rm -rf cisco
+  136  tree
+  137  rm -rf aramos598/infraestructura/tareas/cisco
+  138  ls
+  139  tree
+  140  cd /
+  141  rm -rf aramos598/infraestructura/tareas/cisco
+  142  cd aramos598
+  143  ls
+  144  tree
+  145  clear
+  146  tree
+  147  cd trabajos
+  148  cd infraestructura/trabajos
+  149  mkdir cisco
+  150  cd cisco
+  151  touch comandos.txt
+  152  cd infraestructura/parcial
+  153  cd parcial
+  154  cd aramos598/infraestructura/parcial
+  155  cd /aramos598/infraestructura/parcial
+  156  clear
+  157  mkdir envios 
+  158  mkdir soportes
+  159  cd envios
+  160  touch historial.txt
+  161  touch pasosgit.txt
+  162  cd /aramos598/infraestructura/parcial/soportes
+  163  touch enlaces.txt
+  164  cd /aramos598
+  165  tree
+  166  cd personal
+  167  mkdir mis_materias
+  168  mkdir ocio
+  169  touch datos-personales.txt
+  170  ls
+  171  cd /aramos598/personal/mis_materias
+  172  touch materias.txt
+  173  cd /aramos598/personal/ocio
+  174  touch hobbies.txt
+  175  touch series.txt
+  176  cd /aramos598
+  177  tree
+  178  clear
+  179  cd semillero/proyectos/diseños/ingeniotic
+  180  touch quees.txt
+  181  cd /aramos598/semillero/proyectos/diseños/semilleros
+  182  touch propuesta.txt
+  183  cd /aramos598
+  184  tree
+  185  v
+  186  clear
+  187  dnf install git
+  188  git --version 
+  189  dnf install git
+  190  git --version
+  191  git config --global user.name "ANNNAAAAAAA12"
+  192  git config --global user.email "aramos598@unab.edu.co"
+  193  git config --list
+  194  git init
+  195  git add .
+  196  git commit -m "commit de /aramos598"
+  197  git remote add origin https://github.com/ANNNAAAAAA12/fedora.git
+  198  git remote -v
+  199  git push -u origin main
+  200  git init
+  201  git add .
+  202  git commit "primer commit bueno"
+  203  git commit -m "primeroooo"
+  204  git log
+  205  git push
+  206  git push --set-upstream origin master
+  207  git push --set upstream origin master
+  208  git remote -v
+  209  git branch
+  210  git push -u origin master
+  211  git push -u origin main
+  212  git push -u origin master
+  213  clear
+  214  tree
+  215  cd /infraestructura/envios/historial.txt
+  216  cd /infraestructura/envios
+  217  clear
+  218  tree
+  219  history > infraestructura/parcial/envios/historial.txt

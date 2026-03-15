@@ -1,0 +1,5 @@
+1. nombre : Ana Sofia Ramos Granados
+2. id: U00178255
+3. cedula: 1141515292
+4. correo: aramos598@unab.edu.co
+

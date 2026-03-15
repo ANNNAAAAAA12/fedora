@@ -1,0 +1,6 @@
+ escribir los comandos usados en el curso de linux 
+1. ls -> contenido del directorio 
+2. cd -> cambiar de directorio 
+3. pwd -> ver en donde estás 
+4. mkdir -> crear un nuevo directorio 
+5. rm -> eliminar 

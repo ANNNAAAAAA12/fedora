@@ -1,0 +1,8 @@
+- infraestructura
+- Ingenieria de software
+-arquitectura de software
+-bases de datos 2
+-inteligencia de negocios 
+-piano complementario 1
+-coro 1
+-canto

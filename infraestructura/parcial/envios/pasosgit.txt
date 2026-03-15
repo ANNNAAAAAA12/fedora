@@ -1,0 +1,9 @@
+
+1. Abrir el repo en la terminal con dnf install git, git user.name...
+2. crear repo en github
+3. conectarlo con el link remote https...
+4. git commit 
+5. git push -u origin master
+6. crear token en github
+7. poner usuario y token para autentificarse
+

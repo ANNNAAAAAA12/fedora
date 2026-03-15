@@ -1,0 +1,14 @@
+temas que hemos visto: 
+1. Fedora
+
+2.VirtualBox
+
+3.Cisco curso Linux
+
+4. Cisco Packet Tracer
+
+5. Redes
+
+6. Configuración de routers y pcs
+
+7. Subdivisión de redes ips ....

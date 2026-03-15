@@ -1,0 +1,7 @@
+
+comandos Vi
+
+1. i-> insertar texto 
+2. :q!-> salir sin guardar
+3. :wq-> guardar y salir
+
